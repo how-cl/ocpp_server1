@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "axios": "^1.4.0",
-    "ocpp": "^2.0.1"
+    "ocpp":  "^2.0.1"
   }
 }
