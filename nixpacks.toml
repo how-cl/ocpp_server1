@@ -1,0 +1,4 @@
+# nixpacks.toml
+
+[phases.install]
+cmds = ["npm cache clean --force && npm i"]
