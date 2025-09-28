@@ -1,4 +1,5 @@
 const { CentralSystem } = require('ocpp-ts');
+const axios = require('axios');
 
 const server = new CentralSystem({
   listenPort: 9220,
